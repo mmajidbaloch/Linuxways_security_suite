@@ -85,44 +85,23 @@ Download the demo APK: [LinuxWays Security Suite APK](https://drive.google.com/f
 
 ## Getting Started
 
-> **[Team to complete]** Fill in the details below from your project setup.
-
-**Requirements**
-- Android Studio: `[version]`
-- Language / build system: `[e.g. Kotlin, Gradle]`
-- minSdk / targetSdk: `[minSdk]` / `36`
-
 **Build and run**
 ```bash
-git clone https://github.com/<your-username>/linuxways-security-suite.git
+git clone https://github.com/mmajidbaloch/Linuxways_security_suite.git
 cd linuxways-security-suite
 # Open in Android Studio, sync Gradle, then Run on a device or emulator
 ```
 
-## Repository Structure
-
-> **[Team to complete]** Example layout:
-
-```
-linuxways-security-suite/
-├── app/            # Android application source
-├── docs/           # Technical proposal, pitch deck
-├── screenshots/    # State A (score 80) and State B (score 97)
-└── README.md
-```
-
-## Documentation
-
-- Technical Architecture & Enterprise Business Proposal (see `docs/`)
 
 ## Team
 
-| Name | Role |
-|---|---|
-| **Atif Ahmed** | Platform Architect (Cybersecurity & Systems Architecture) |
+| Name                | Role                                                                                                       |
+| ------------------- | ---------------------------------------------------------------------------------------------------------- |
 | **Ms. Hirra Anwar** | Assistant Professor, SEECS: Cybersecurity Research Advisory, Compliance Verification & Security Governance |
-| **Muhammad Haris** | Android OS Controls Auditor (12 Checks) & Deterministic APK Inspection Engine |
-| **Muhammad Majid** | Network Security Inspector, 5-Workspace Console & Device Telemetry Validation |
+| **Atif Ahmed**      | Platform Architect (Cybersecurity & Systems Architecture)                                                  |
+| **Muhammad Haris**  | Android OS Controls Auditor (12 Checks) & Deterministic APK Inspection Engine                              |
+| **Muhammad Majid**  | Network Security Inspector, 5-Workspace Console & Device Telemetry Validation                              |
+
 
 School of Electrical Engineering and Computer Science (SEECS), NUST, Islamabad
 
